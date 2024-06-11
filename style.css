@@ -1,0 +1,144 @@
+.header {
+    background-color: #FFCD9E;
+    display: flex;
+    padding: 3rem 4rem;
+}
+
+.header-left {
+    width: 562px;
+}
+
+.heading {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: left;
+    color: #282828;
+}
+
+.content {
+    width: 495px;
+    height: 81px;
+    line-height: 1.4;
+}
+
+.content p {
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+    line-height: 1.6;
+
+}
+
+.img-1 {
+    width: 393.52px !important;
+    height: 442.45px !important;
+    margin-left: 145px;
+
+
+}
+
+.line {
+    width: 227px;
+    height: 81px;
+    font-weight: 800;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: left;
+    color: #282828;
+
+}
+
+
+.input-field {
+    padding: 25px 0px;
+    display: flex;
+}
+
+.box {
+    width: 270px;
+    height: 33px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    color: #888888;
+    border: 2px solid black;
+    padding-left: 18px;
+    border-radius: 8px;
+
+}
+.box::placeholder{
+    font-family: Inter;
+}
+
+.btn {
+    background-color: black;
+    color: white;
+    margin-left: 9px;
+    width: 190px;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 24.2px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.bottom-placeholder {
+    width: 344px;
+    height: 61px;
+    top: 479px;
+    left: 134px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 25.6px;
+    text-align: center;
+    margin-left: -32px;
+    margin-top: -6px;
+    color: white;
+
+
+
+}
+
+.bottom {
+    display: flex;
+    background-color: #282828;
+    color: white;
+    height: 298px;
+
+}
+.bottom-left{
+    margin-top: 40px;
+}
+
+.bottom div li {
+    list-style: none;
+    margin: 35px 150px;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 0px;
+    text-align: left;
+
+}
+
+.botton-right{
+    margin-left: 390px;
+    margin-top: 40px;
+    font-family: Inter;
+}
+
+.img-2{
+  margin-left:90px;
+}
+.hello{
+    margin-top: 45px;
+    margin-left: 50px;
+}
